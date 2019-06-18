@@ -1,6 +1,6 @@
 {
   "name": "pika-plugin-add-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "adds custom values to built package.json",
   "main": "src/index.js",
